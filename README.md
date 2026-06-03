@@ -1,5 +1,7 @@
 # Student Management Web App
 
+**Live Demo:** [https://kba-project.vercel.app/](https://kba-project.vercel.app/)
+
 This is a simple React and Express web application built to manage student records. It allows you to add new students, edit their profiles, delete them, and search/filter through your database records.
 
 We connect the backend server to MongoDB Atlas (a cloud database) to store all the student data securely.
